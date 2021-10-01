@@ -12,7 +12,7 @@ def ProcessDisplay():
     return Data
 
 def main():
-    print("------ Marvellous Infosystems ------")
+    
     print("Script title : " + argv[0])
 
 
